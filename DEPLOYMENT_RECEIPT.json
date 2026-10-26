@@ -1,0 +1,14 @@
+{
+  "project": "alfred-russel-wallace-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "BkvDk2iog79pfvkrjrzXKxSMUSUfgP8oEYvpuoknmAno",
+  "vault_account": "6AUaXZf3e9picnLj4izBZztFADtAYzKmb5XvUZ5ndLke",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5MmzVBzMeSG2QC8QKF4mbTJQdiFob5GGLrH8KcWjgG63jBWvUWL9trcV2G8hqUc1NsuiApPT7EFoaGMH4wEoXX1T",
+  "account_tx": "2taAMk1PxAmzi5LRLodfdhQDfEJWAqjBKGjFT4XGpUPwkDU5yxGT1gPGMvTSyHmkzdDouxWT7TCWxwb47zyH37Cb",
+  "mint_tx": "3o7ePUpyQpGYhBoRoxMLY7owbCxceShRYJ2YMnUu91VgFYXbcmDhHQGUdgv6Vmeg8dbC4swrj6GnKdCNRNFXv6hb",
+  "solana_explorer_mint": "https://explorer.solana.com/address/BkvDk2iog79pfvkrjrzXKxSMUSUfgP8oEYvpuoknmAno?cluster=devnet",
+  "timestamp": "2026-10-26 16:16:55 UTC"
+}
